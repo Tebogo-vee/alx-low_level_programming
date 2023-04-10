@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
 
 	}
 
-	cents == (argv[1]);
+	cents = _atoi(argv[1]);
 
 	while (cents > 0)
 	{
